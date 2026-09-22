@@ -1,6 +1,3 @@
-// FoodExplorer - 程序入口
-// 布局：顶部栏 + 左侧导航栏 + 地图区域 + 右侧详情面板 + 底部状态栏
-// 交互：拖拽地图、滚轮缩放、点击标记或列表卡片选中餐厅
 
 #include "raylib.h"
 #include "raygui.h"
